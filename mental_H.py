@@ -20,7 +20,7 @@ def preprocess_text(text):
 # Streamlit app
 def main():
     # Display the image (replace 'mental_health_app_image.jpg' with your actual image path)
-    """
+"""
 Analyze Your Mental Health State
         CHECK YOUR
 Normal or Stressed mental state, 
