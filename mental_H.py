@@ -20,15 +20,7 @@ def preprocess_text(text):
 # Streamlit app
 def main():
     # Display the image (replace 'mental_health_app_image.jpg' with your actual image path)
-"""
-Analyze Your Mental Health State
-        CHECK YOUR
-Normal or Stressed mental state, 
-Depressed or Suicidal State, 
-Anxiety or Bi-Polar, 
-also Personality Disorder 
-
-"""
+ 
 
     st.image("image0.jpg", caption="Mental Health Patients App by Jayymadd Clicke", use_column_width=True)
 
