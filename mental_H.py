@@ -20,6 +20,16 @@ def preprocess_text(text):
 # Streamlit app
 def main():
     # Display the image (replace 'mental_health_app_image.jpg' with your actual image path)
+    """
+Analyze Your Mental Health State
+        CHECK YOUR
+Normal or Stressed mental state, 
+Depressed or Suicidal State, 
+Anxiety or Bi-Polar, 
+also Personality Disorder 
+
+"""
+
     st.image("image0.jpg", caption="Mental Health Patients App by Jayymadd Clicke", use_column_width=True)
 
     st.title("Mental Health Sentiment Analysis")
@@ -49,13 +59,9 @@ def main():
     # Add donation link (replace with your actual link)
     st.markdown("---")
     st.subheader("Support Mental Health Initiatives:")
-    st.markdown("[Donate Now](https://www.yourdonationlink.com)")  
+    st.markdown("[Donate Now](https://tipp.ng/jamaludeen_madaki)")  
 
 if __name__ == '__main__':
     main()
 
 
-"""
-sentiment analysis of mental health to predict Normal, Depression, Suicidal, Anxiety, Stress, Bi-Polar, Personality Disorder 
-
-"""
