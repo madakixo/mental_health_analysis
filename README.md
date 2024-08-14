@@ -33,14 +33,14 @@ This Streamlit application provides a simple tool for analyzing the sentiment of
 ## Important Notes
 
 *   This app is intended for informational and educational purposes only. It is not a substitute for professional medical advice or diagnosis.
-*   The model's predictions are based on patterns learned from the training data and may not always be accurate.
+*   The model's predictions are based on patterns learned from the training data and may not always be accurate, acc= 0.77.
 *   If you or someone you know is struggling with mental health issues, please seek help from a qualified mental health professional.
 *   **Contact Information:**
     *   Email: jayymaddclicke@gmail.com
     *   Phone: 08024621105
 
 *   **Support Mental Health Initiatives:**
-    *   [Donate Now](https://www.yourdonationlink.com) (Replace with your actual donation link)
+    *   [Donate Now](https://tipp.ng/jamaludeen_madaki) 
 
 ## Model Details
 
